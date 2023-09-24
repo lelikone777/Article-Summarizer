@@ -1,6 +1,7 @@
-[Summize](https://articles-summary-rtk-tailwind-rapid.netlify.app/)
 
 ![Desktop preview](public/desktop.png)
+
+# [Summize - помощника в упрощении понимания веб-сайтов](https://articles-summary-rtk-tailwind-rapid.netlify.app/)
 
 Создан на основе React и RapidApi
 
@@ -20,6 +21,28 @@
 
 Улучшение качества резюме: Продолжаем совершенствовать алгоритмы суммирования, чтобы обеспечить точность и полноту описаний веб-сайтов.
 
-Интеграция и расширение: Мы планируем интегрировать Summize в различные приложения и платформы, чтобы сделать его доступным для максимального числа пользователей.
+Интеграция и расширение: Я планируем интегрировать Summize в различные приложения и платформы, чтобы сделать его доступным для максимального числа пользователей.
 
-Участие сообщества: Мы приглашаем разработчиков и исследователей присоединиться к проекту, улучшать его и делать Summize еще более мощным инструментом.
+    =============
+
+# [Summize - an assistant in making websites easier to understand](https://articles-summary-rtk-tailwind-rapid.netlify.app/)
+
+Built on React and RapidApi
+
+Welcome to the Summize project - your trusty helper in making websites easier to understand. Summize is an open source project for summarizing website content, which allows you to summarize the information and functionality of a website, even if you only have its address.
+
+Benefits of Summize: Simplify website analysis: Summize allows users to quickly evaluate the content and functionality of websites, even without clicking on links.
+
+Creating website summaries: Our project is based on advanced artificial intelligence algorithms to create accurate and informative website summaries.
+
+Ease of Use: Users can easily enter website addresses to get brief descriptions and quick insights.
+
+Open Source: Summize is an open source project, allowing developers and researchers to contribute and improve its functionality.
+
+Summize Project Objectives: Automatically Summarize Website Content: Summize's main objective is to create high quality summaries for different websites, making it easier to understand what they are about.
+
+Improving the quality of summaries: We continue to improve our summarization algorithms to ensure the accuracy and completeness of website descriptions.
+
+Integration and expansion: I plan to integrate Summize into various applications and platforms to make it accessible to the maximum number of users.
+
+Community Involvement: I invite developers and researchers to join the project, improve it, and make Summize an even more powerful tool.
